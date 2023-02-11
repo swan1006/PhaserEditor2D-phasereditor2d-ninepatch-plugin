@@ -1,0 +1,6 @@
+{
+    "extends": "../../PhaserEditor2D-v3/source/editor/tsconfig-base.json",
+    "exclude": [
+        "./plugins/phasereditor2d.ninepatch/data/**"
+    ]
+}
