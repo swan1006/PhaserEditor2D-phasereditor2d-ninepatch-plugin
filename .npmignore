@@ -1,0 +1,7 @@
+source
+*.sh
+tslint.json
+images
+design
+code-resources-input
+BUILD.md

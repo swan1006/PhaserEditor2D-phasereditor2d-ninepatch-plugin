@@ -1,0 +1,8 @@
+{
+    "id": "phasereditor2d.ninepatch",
+    "priority": 2,
+    "styles": [],
+    "scripts": [
+        "_out/phasereditor2d.ninepatch.js"
+    ]
+}

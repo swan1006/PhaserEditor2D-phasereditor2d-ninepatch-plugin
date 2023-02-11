@@ -1,0 +1,29 @@
+{
+  "name": "phasereditor2d-ninepatch-plugin",
+  "version": "1.2.0",
+  "description": "NinePatch plugin for Phaser Editor 2D.",
+  "repository": "github:PhaserEditor2D/phasereditor2d-ninepatch-plugin",
+  "keywords": [
+    "phaser",
+    "nine-patch",
+    "game-object",
+    "plugin",
+    "html5",
+    "games"
+  ],
+  "scripts": {
+    "start": "tsc -b -w source",
+    "build": "tsc -b source"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.2"
+  },
+  "author": "Arian Fornaris <developers@phasereditor2d.com> (https://phasereditor2d.com)",
+  "license": "MIT",
+  "phasereditor2d": {
+    "plugins": [
+      "dist"
+    ]
+  }
+}

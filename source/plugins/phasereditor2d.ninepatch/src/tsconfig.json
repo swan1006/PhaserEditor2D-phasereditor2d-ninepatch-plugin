@@ -1,0 +1,27 @@
+{
+    "extends": "../../../tsconfig-base.json",
+    "compilerOptions": {
+        "outFile": "../_out/phasereditor2d.ninepatch.js"
+    },
+    "references": [
+        {
+            "path": "../../../../../PhaserEditor2D-v3/source/editor/plugins/colibri/src"
+        },
+        {
+            "path": "../../../../../PhaserEditor2D-v3/source/editor/plugins/phasereditor2d.phaser/src"
+        },
+        {
+            "path": "../../../../../PhaserEditor2D-v3/source/editor/plugins/phasereditor2d.files/src"
+        },
+        {
+            "path": "../../../../../PhaserEditor2D-v3/source/editor/plugins/phasereditor2d.ide/src"
+        },
+        {
+            "path": "../../../../../PhaserEditor2D-v3/source/editor/plugins/phasereditor2d.pack/src"
+        },
+        {
+            "path": "../../../../../PhaserEditor2D-v3/source/editor/plugins/phasereditor2d.scene/src"
+        }
+    ],
+    "exclude": ["../_out/", "../data"]
+}

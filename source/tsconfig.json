@@ -1,0 +1,11 @@
+{
+    "references": [
+        {
+            "path": "../../PhaserEditor2D-v3/source/editor/plugins/colibri/src"
+        },
+        {
+            "path": "./plugins/phasereditor2d.ninepatch/src"
+        }
+    ],
+    "files": []
+}
